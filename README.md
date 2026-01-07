@@ -1,5 +1,6 @@
 # KanjiVG-URL_Quick-Acquisition
 KanjiVGのURL取得サイト
+[漢字最短書き順 比較サイト](https://sotomono.github.io/kanji_shortest-stroke/)で使うと便利です。
 
 ## 使い方
 ①[https://sotomono.github.io/KanjiVG-URL_Quick-Acquisition/](https://sotomono.github.io/KanjiVG-URL_Quick-Acquisition/)にアクセスしてください。
