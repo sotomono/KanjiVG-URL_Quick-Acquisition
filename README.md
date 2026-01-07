@@ -2,15 +2,14 @@
 KanjiVGのURL取得サイト
 
 ## 使い方
-①
+①[https://sotomono.github.io/KanjiVG-URL_Quick-Acquisition/](https://sotomono.github.io/KanjiVG-URL_Quick-Acquisition/)にアクセスしてください。
 
-②
+②入力フォームに漢字を入力してください。
+
+③「取得」ボタンを押すと、その漢字のSVGファイルへのリンクが得られます。
 
 ## ダウンロード方法
 移動したGitHubページで、おそらく画面右端の方に縦の三点リーダーがあるので押すと「Dounload」があるので押してください。
-
-## ファイル構成
-・index.html
 
 ## ライセンス
 このプロジェクトは大部分をChatGPTによって生成しましたが、すべて MITライセンス のもとで公開します。
